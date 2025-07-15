@@ -1,3 +1,7 @@
+// script.js
+// This script updates the text content of specific headers in the HTML document.
+
+
 const headers = {
   "main-header": "Brennen Gabriel",
   "about": "About Me",
